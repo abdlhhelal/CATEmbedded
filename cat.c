@@ -2,7 +2,7 @@
 
 
 
-int main(){
+int print(){
 
 
 printf("Hello CATians");
